@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://github.com/anabeatriziannotta/create-a-podcast-ia/blob/main/princess-ana.jpg" height="300px">
+</p>
+
 # Projeto Podcast Gerado por I.A by DIO
 
 Projeto com o objetivo de gerar um podcast com as facilidades das ferramentas de IA.
 
-<a href=""> Clique aqui para ouvir</a>
+<a href="https://github.com/anabeatriziannotta/create-a-podcast-ia/blob/main/ep1.mp3"> Clique aqui para ouvir</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
